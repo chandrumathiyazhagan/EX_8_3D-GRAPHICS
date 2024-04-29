@@ -30,7 +30,7 @@ Developed by: M.CHANDRU
 Registration Number : 212222230026
 
 ### Mainactivity.java:
-```
+```java
 package com.example.ex08;
 import androidx.appcompat.app.AppCompatActivity;
 import android.opengl.GLSurfaceView;
